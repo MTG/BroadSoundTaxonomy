@@ -1,0 +1,137 @@
+query(-ies),category,subcategory,top_ambiguity,comments
+boom,FX,explosion,M,onomatopoeia
+explosion,FX,explosion,,action
+"gunshot, gun shot, gun ",FX,explosion,,
+static,FX,<none>,SS,
+click,FX,<not sure>,,onomatopoeia
+"electricity, electric",FX,<not sure>,SS,
+animal,FX,animals,SS,source
+bird,FX,animals,SS,source
+cat,FX,animals,,source
+dog,FX,animals,SS,source
+horse,FX,animals,SS,source
+boing,FX,design,,onomatopoeia
+cartoon,FX,design,,
+flux,FX,design,,
+impact,FX,design,,
+magic,FX,design,,
+riser,FX,design,,
+splash,FX,design,,onomatopoeia
+thud,FX,design,,
+transition,FX,design,,
+"whoosh, woosh",FX,design,,onomatopoeia
+"swoosh, swish",FX,design,,onomatopoeia
+beep,FX,"design, electronic, objects",,onomatopoeia
+alarm,FX,"design, electronic, vehicles",,
+button,FX,"design, objects",,source
+notification,FX,design/alert,M,
+white noise,FX,electronic,,acoustic
+game,FX,electronic/scifi,,
+laser,FX,electronic/scifi,,source
+robot,FX,electronic/scifi,SP,source
+win,FX,electronic/scifi,,
+glitch,FX,"electronic/scifi, experimental ",M,acoustic
+drill,FX,engines/mechanisms,,source
+applause,FX,human sounds,SS,action
+breathing,FX,human sounds,,source
+clap,FX,human sounds,SS,action
+fart,FX,human sounds,,action
+"footsteps, footstep, steps",FX,human sounds,,
+heartbeat,FX,human sounds,,action
+jump,FX,human sounds,,action
+laugh,FX,human sounds,,action
+punch,FX,human sounds,,action
+running,FX,human sounds,SS,action
+"sex, Sex",FX,human sounds,,action
+slap,FX,human sounds,,action
+"walking, walk",FX,human sounds,SS,action
+whistle,FX,human sounds,M,action
+fire,FX,natural,,source
+lightning,FX,natural,SS,
+water,FX,natural,SS,
+bell,FX,objects,M,source
+clock,FX,objects,,source
+coin,FX,objects,,source
+door,FX,objects,,source
+door open,FX,objects,,action
+drop,FX,objects,,action
+"falling, fall",FX,objects,,action
+glass,FX,objects,,source
+metal,FX,objects,,source
+paper,FX,objects,,source
+sword,FX,objects,,source
+ding,FX,"objects, design/alert",,onomatopoeia
+siren,FX,"objects, design/alert",,source
+car,FX,vehicles,SS,
+car crash,FX,vehicles,SS,
+crash,FX,vehicles,,
+train,FX,vehicles,SS,
+scratch,IS,electronic,"M, FX",
+synth,IS,electronic,,source
+piano,IS,keyboard,,source
+"drum, drums",IS,percussion,,source
+hit,IS,percussion,,source
+kick,IS,percussion,FX,source
+snare,IS,percussion,,source
+world percussion,IS,percussion,M,source
+bass,IS,string,,source
+guitar,IS,string,,source
+violin,IS,string,,source
+flute,IS,wind,,source
+horn,IS,wind,,source
+trumpet,IS,wind,,source
+horror,M,fragments,"FX, SP",
+intro,M,fragments,,
+melody,M,"solo-instrument, fragments",,
+radio,M,fragments,SP,source
+suspense,M,fragments,,emotion
+"ambient, ambience",M,"fragments, ambient",SS,
+background music,M,"fragments, ambient",,
+drone,M,"fragments, ambient",SS,
+beat,M,"fragments, loops",,
+cinematic,M,,,genre
+high fashion,M,,,genre
+jazz,M,,,genre
+lofi,M,,,genre
+phonk,M,,,genre
+pop,M,,,genre
+rap,M,,SP,genre
+rock,M,,FX,genre
+techno,M,,,genre
+trap,M,,,genre
+loop,M,loops,,
+music,M,MUSIC,,
+choir,M,singing,,
+crowd,SP,crowd,,source
+scream,SP,solo,,
+"vocal, vocals",SP,solo,,
+talking,SP,SPEECH,,action
+voice,SP,SPEECH,,source
+nights,SS,<all>,,location
+room tone,SS,indoors,,
+space,SS,indoors,"FX, M",location
+city,SS,urban (outdoors),,location
+neighborhood,SS,urban (outdoors),SP,location
+beach,SS,nature,,
+birds,SS,nature,FX,source
+crickets,SS,nature,FX,source
+forest,SS,nature,,location
+nature,SS,nature,,
+ocean,SS,nature,,source
+"Rain, rain",SS,nature,FX,source
+river,SS,nature,,source
+sea,SS,nature,,source
+thunder,SS,nature,FX,source
+underwater,SS,nature,,location
+waves,SS,nature,,source
+wind,SS,nature,FX,source
+808,none,,,too specific
+All,none,,,too vague
+brampton,none,,,spam
+error,FX,"design, electronic, experimental",,
+rare samples,none,,,too vague
+happy,none,,,sensation
+rage,none,,,sensation
+sad,none,,,sensation
+scary,none,,,sensation
+christmas,none,,,time-related

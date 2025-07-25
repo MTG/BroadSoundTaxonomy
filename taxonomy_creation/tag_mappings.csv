@@ -1,0 +1,139 @@
+tag(s),category,subcategory,tag_order
+1-shot,"IS, FX",INSTRUMENT SAMPLES,82
+acoustic,<all>,,96
+"ambience, ambiance","SS, M","nature, synthetic/artificial, indoors","13, 25"
+ambient,"M, S","single-instrument, ambient",8
+"analog, analogue","IS, FX",,"103, 140"
+atmosphere,SS,SOUNDSCAPES,24
+atmospheric,"M, SS","ambient, synthetic/artificial",130
+background,"SS, M",<all>,75
+background-sound,SS,SOUNDSCAPES,101
+bass,"M, IS",string,15
+beat,M,MUSIC,21
+beep,FX,"electronic, design, vehicles",148
+bell,FX,object,111
+bird,"FX, SS","animal, nature",100
+birds,SS,"nature, outdoors",28
+bpm,M,MUSIC,106
+car,FX,vehicle,78
+carnatic,"M, IS",multi-instrument,63
+cinematic,M,"multi-instrument, ambient",110
+city,"SS, FX",outdoors,44
+click,FX,"object, design",74
+close,FX,object,92
+compmusic,"IS, M",<all>,59
+computer,"M, FX",multi-instrument,97
+creepy,none,,104
+crowd,SP,crowd,115
+dance,M,multi-instrument,53
+dark,<all>,,62
+deep,<all>,,127
+digital,FX,electronic,49
+distortion,<all>,"processed, synthetic/artificial, experimental",122
+door,FX,object,57
+drone,"M, SS",ambient,36
+drop,FX,object,143
+"drum, Drum, drums","IS, M","percussion, solo-percussion ","5, 108, 22"
+effect,FX,SOUND EFFECTS,18
+electric,"FX, IS","mechanisms, vehicles",73
+electro,M,,52
+electronic,"M, IS",multi-instrument,11
+electronica,M,multi-instrument,145
+engine,FX,"mechanisms, vehicles",95
+english,"SP, M",SPEECH,150
+experimental,"M, FX, SS",,56
+"female, woman",SP,solo,"46, 125"
+Fender-Chroma-Polaris,none,,64
+field,SS,SOUNDSCAPES,146
+field-recording,SS,SOUNDSCAPES,2
+film,"M, FX","multi-instrument, ambient, objects",116
+"foley, Foley",FX,SOUND EFFECTS,"61, 90"
+"footsteps, steps",FX,"human, animals","109, 149"
+forest,SS,nature,118
+free,<all>,,123
+"fx, sfx",FX,SOUND EFFECTS,"30, 34"
+game,"FX, M",design,27
+general-noise,SS,outdoors,107
+girl,SP,solo,135
+glass,FX,object,119
+glitch,"FX, M","electronic, experimental, multi-instrument",32
+good-sounds,<all>,,50
+guitar,"IS, M",string,38
+h4n-zoom,none,,66
+hand,FX,human,128
+hit,"IS, FX",percussion,26
+horror,none,,41
+house,"FX, SS",object,91
+human,"SP, FX",<all>,72
+icassp2013-dataset,none,,71
+iitm,none,,67
+impact,FX,"object, electronic, design",112
+indian-percussion,"IS, M",percussion,70
+industrial,SS,outdoors,89
+kick,"IS, FX",percussion,39
+kitchen,FX,object,129
+lo-fi,M,ambient,133
+lofi,M,multi-instrument,151
+"loop, Loop, loops",M,MUSIC,"6, 134, 114"
+machine,FX,mechanisms,40
+male,SP,solo,35
+mechanical,FX,mechanisms,136
+melody,M,solo-instrument,138
+metal,"M, FX",,19
+metallic,FX,object,98
+motor,FX,vehicles,137
+mridangam,"IS, M",percussion,65
+mridangam-stroke-dataset,"IS, M",,68
+multisample,IS,INSTRUMENT SAMPLES,1
+music,M,MUSIC,17
+nature,"SS, FX",nature,23
+neumann-U87,none,,51
+noise,none,,7
+open,FX,objects,99
+OWI,none,,45
+pad,"M, IS, SS","ambient, synthetic/artificial",55
+people,SP,"crowd, conversation",43
+"percussion, Percussion","M, IS",percussive,"9, 141"
+percussive,IS,percussion,131
+piano,"IS, M",keyboard,48
+processed,<all>,"processed, synthetic/artificial, experimental",47
+rain,SS,nature,81
+"recording, Recording",<all>,,"87, 144"
+reverb,<all>,,60
+rhythm,M,percussive,85
+"sample, samples","IS, FX",INSTRUMENT SAMPLES,"29, 117"
+scary,none,,102
+sci-fi,"FX, M",electronic,37
+short,FX. IS,,86
+shot,none,,93
+single-note,IS,INSTRUMENT SAMPLES,3
+sm-58,none,,69
+snare,IS,percussion,33
+sound,<all>,,14
+Sound,<all>,,88
+sound-design,FX,design,94
+soundeffect,FX,SOUND EFFECTS,152
+sounds,<all>,,142
+soundscape,SS,SOUNDSCAPES,20
+space,"SS, FX","indoors, electronic",42
+speech,SP,SPEECH,79
+spring,SS,"nature, outdoors",132
+stereo,<all>,,121
+street,SS,outdoors,84
+"synthesizer, synth","IS, M",electronic,"4, 10"
+talk,SP,SPEECH,113
+techno,M,multi-instrument,83
+traffic,SS,outdoors,77
+train,"FX, SS",vehicles,105
+trance,M,multi-instrument,124
+velocity,IS,<all>,76
+vocal,SP,<all>,31
+voice,SP,SPEECH,12
+voices,SP,"crowd, conversation",126
+walking,FX,human,120
+water,"FX, SS","natural, object, nature",16
+weird,FX,experimental,80
+white-noise,FX,electronic,147
+wind,SS,nature,54
+wood,FX,natural,58
+Yamaha-CS-30L,none,,139
